@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://c35poplm383bx"]
 
-[ext_resource type="Texture2D" uid="uid://bg2eps7gxkxc6" path="res://Mine.png" id="1_ujwqa"]
-[ext_resource type="Texture2D" uid="uid://bik7i2735jefm" path="res://Flag.png" id="2_nd2ta"]
+[ext_resource type="Texture2D" uid="uid://bg2eps7gxkxc6" path="res://Assets/Mine.png" id="1_nr6ed"]
+[ext_resource type="Texture2D" uid="uid://bik7i2735jefm" path="res://Assets/Flag.png" id="2_djp52"]
 
 [node name="Node2D" type="Node2D"]
 
@@ -9,7 +9,7 @@
 texture_filter = 1
 offset_right = 40.0
 offset_bottom = 40.0
-texture_normal = ExtResource("1_ujwqa")
+texture_normal = ExtResource("1_nr6ed")
 stretch_mode = 4
 
 [node name="TextureButton2" type="TextureButton" parent="."]
@@ -17,5 +17,5 @@ texture_filter = 1
 offset_left = 40.0
 offset_right = 80.0
 offset_bottom = 40.0
-texture_normal = ExtResource("2_nd2ta")
+texture_normal = ExtResource("2_djp52")
 stretch_mode = 4
