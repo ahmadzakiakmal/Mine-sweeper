@@ -53,3 +53,48 @@ layout_mode = 2
 
 [node name="TextureButton16" parent="GridContainer" instance=ExtResource("1_w2sf4")]
 layout_mode = 2
+
+[node name="TextureButton17" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton18" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton19" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton20" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton21" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton22" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton23" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton24" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton25" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton26" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton27" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton28" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton29" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton30" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
+
+[node name="TextureButton31" parent="GridContainer" instance=ExtResource("1_w2sf4")]
+layout_mode = 2
