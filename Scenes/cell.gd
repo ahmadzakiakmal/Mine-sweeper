@@ -24,5 +24,5 @@ func _gui_input(event: InputEvent) -> void:
 
 func _on_button_up() -> void:
 	is_revealed = true
-	self.texture_normal = preload("res://Assets/Mine.png")
+	self.texture_normal = preload("res://Assets/2.png")
 	pass # Replace with function body.
